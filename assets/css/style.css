@@ -1,0 +1,25 @@
+
+.jumbotron {
+    text-align: center;
+    }
+
+    .card {
+        text-align: center;
+    }
+
+    .card-body {
+        text-align: center;
+        color: black;
+    }
+
+    .red {
+        text-align: center;
+       
+        color: red;
+    }
+
+    .card-text {
+        color: royalblue;
+    }
+
+   
